@@ -7,11 +7,12 @@
 
 - **Python Interpreter**: Ensure you have Python installed. This project is compatible with Python 3.x.
 - **yt-dlp**: Install via pip if not already installed.
-- **terminal**: Make sure you are zoomed out on your terminal to veiw the video properly.
+  <br>
   
   ```console
   pip install yt-dlp
   ```
+- **terminal**: Make sure you are zoomed out on your terminal to veiw the video properly.
 
 ## Streaming
 
